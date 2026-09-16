@@ -1,0 +1,34 @@
+QUETTA BUILDERS WEBSITE - VIDEO FILE PATHS
+==========================================
+
+Videos ko ZIP extract karne ke baad neeche diye gaye EXACT paths par add karein.
+Folder aur filename ke capital/small letters bilkul same rakhein.
+
+1) HOME PAGE SHOWREEL
+   public/videos/showreel.mp4
+
+2) PROJECTS PAGE - PROJECT FILM
+   public/videos/projects/project-fast-track.mp4
+
+3) GUIDANCE PAGE - VIDEO 1
+   public/videos/guidance/guidance-1-before-you-buy.mp4
+
+4) GUIDANCE PAGE - VIDEO 2
+   public/videos/guidance/guidance-2-construction-cost.mp4
+
+5) GUIDANCE PAGE - VIDEO 3
+   public/videos/guidance/guidance-3-quality-control.mp4
+
+6) GUIDANCE PAGE - VIDEO 4
+   public/videos/guidance/guidance-4-timeline-handover.mp4
+
+VERCEL KE LIYE:
+- Format: .mp4
+- Video codec: H.264
+- Audio codec: AAC
+- Videos ko compress karke rakhein taake upload aur page loading fast ho.
+- Video add karne ke baad poore project folder ko Vercel par upload/deploy karein.
+
+NOTE:
+Home showreel video is ZIP mein pehle se mojood hai.
+Baaki 5 removed videos ke folders aur placeholder paths website mein pehle se ready hain.
